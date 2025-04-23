@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**beyyzgur/beyyzgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there, I'm Beyza ✨
+- 📚 I'm studying computer engineering at Pamukkale University (3/4)
+- ✍🏻 I am passionate about mobile development
+- 🌱 I'm currently learning Swift & Kotlin
+- 📧 You can reach me via
+<p align="left" style= margin-left:40 px ;>
+<a href="https://linkedin.com/in/beyyzgur" target="blank"><img align="center" src="images/linked-in-alt.svg" alt="beyyzgur" height="30" width="40" /></a>
+<a href="mailto: beyyzgur@gmail.com" target="blank>beyyzgur@gmail.com"><img align="center" src="images/gmail.svg" alt="beyyzgur" height="30" width="40" /></a>
+<a href="https://twitter.com/beyyzgur" target="blank"><img align="center" src="images/twitter.svg" alt="beyyzgur" height="30" width="40" /></a>
+</p>
