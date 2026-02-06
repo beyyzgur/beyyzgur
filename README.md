@@ -1,5 +1,5 @@
 ## Hi there, I'm Beyza ✨
-- 📚 I'm studying computer engineering at Pamukkale University (3/4)
+- 📚 I'm studying computer engineering at Pamukkale University (4/4)
 - ✍🏻 I am passionate about mobile development
 - 🌱 I'm currently learning Swift | UIKit | SwiftUI
 - ✨ To see my website, just click on <a href="https://beyzagur.dev" target="_blank">this</a> 
